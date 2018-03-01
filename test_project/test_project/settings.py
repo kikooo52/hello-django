@@ -25,7 +25,8 @@ SECRET_KEY = '$8(l2(&#f&v57poe@-b1z9k9c#1r=34$k7!@rfsxs)*bw=h-%u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+# pages/settings.py
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
